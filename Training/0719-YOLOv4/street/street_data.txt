@@ -1,0 +1,5 @@
+classes = 3
+train=/content/drive/My Drive/Project/Training/0719-YOLOv4/street/train/train.txt (步驟三的 train.txt 路徑)
+valid=/content/drive/My Drive/Project/Training/0719-YOLOv4/street/valid/val.txt (步驟三的 val.txt 路徑)
+names=data/street.names
+backup=backup/
