@@ -1,8 +1,0 @@
-/content/drive/My Drive/Project/Training/0719-YOLOv4/street/train/street10.jpg
-/content/drive/My Drive/Project/Training/0719-YOLOv4/street/train/street1.jpg
-/content/drive/My Drive/Project/Training/0719-YOLOv4/street/train/street3.jpg
-/content/drive/My Drive/Project/Training/0719-YOLOv4/street/train/street4.jpg
-/content/drive/My Drive/Project/Training/0719-YOLOv4/street/train/street5.jpg
-/content/drive/My Drive/Project/Training/0719-YOLOv4/street/train/street6.jpg
-/content/drive/My Drive/Project/Training/0719-YOLOv4/street/train/street7.jpg
-/content/drive/My Drive/Project/Training/0719-YOLOv4/street/train/street8.jpg

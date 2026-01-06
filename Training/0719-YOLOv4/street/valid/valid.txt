@@ -1,2 +1,0 @@
-/content/drive/My Drive/Project/Training/0719-YOLOv4/street/valid/street2.jpg
-/content/drive/My Drive/Project/Training/0719-YOLOv4/street/valid/street9.jpg
