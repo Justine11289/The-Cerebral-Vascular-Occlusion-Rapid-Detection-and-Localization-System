@@ -36,6 +36,8 @@ The-Cerebral-Vascular-Occlusion-Rapid-Detection-and-Localization-System-main/
 ├── Datalist                  # Record of datasets used (e.g., IACTA-EST 2023)
 └── README.md                 # Project documentation
 ```
+### System Workflow
+![System Workflow](Document/流程架構圖.png)
 
 ### Script Functionality
 * **Final.py**: The backend logic for NIfTI processing, noise removal, 3D conversion, and hemisphere comparison.
