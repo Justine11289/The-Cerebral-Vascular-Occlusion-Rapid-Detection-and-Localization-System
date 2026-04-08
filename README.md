@@ -37,7 +37,9 @@ The-Cerebral-Vascular-Occlusion-Rapid-Detection-and-Localization-System-main/
 └── README.md                 # Project documentation
 ```
 ### System Workflow
-![System Workflow](Document/流程架構圖.png)
+<p align="center">
+<img src="Document/流程架構圖.png" width="500">
+</p>
 
 ### Script Functionality
 * **Final.py**: The backend logic for NIfTI processing, noise removal, 3D conversion, and hemisphere comparison.
