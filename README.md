@@ -1,6 +1,6 @@
 # Cerebral Vascular Occlusion Rapid Detection and Localization System
 
-This project is a medical auxiliary tool designed to assist healthcare professionals in diagnosing and treating cerebral vascular obstructions. By constructing a three-dimensional (3D) point cloud model of cerebral blood vessels from Computed Tomography Angiography (CTA) scans, the system identifies and marks vascular anomalies to provide clearer visualization and rapid localization of obstructions.
+Enhanced for diagnostic precision, this clinical aid reconstructs 3D vascular point cloud models from CTA scans to streamline the detection of cerebral obstructions. By automatically identifying and marking vascular anomalies, the system empowers healthcare professionals with superior visualization for rapid, accurate localization of life-threatening blockages.
 
 ## Project Overview
 Cerebral vascular disease is a leading cause of death and long-term disability in Taiwan. Current diagnostic processes for stroke often rely on manual interpretation of 2D images, which is time-consuming and requires high expertise. This system optimizes the interpretation of CTA scans to improve emergency triage efficiency and help patients receive treatment within the "golden window".
