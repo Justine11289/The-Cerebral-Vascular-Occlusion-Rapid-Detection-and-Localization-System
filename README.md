@@ -52,3 +52,6 @@ To run this project, the following Python libraries are required:
 * `pyvista` & `pyvistaqt` (3D visualization and plotting)
 * `PyQt5` (Graphical User Interface)
 * `numpy`, `scikit-image`, `scipy`, `pyntcloud`, `numpy-stl`
+  
+### Commentary video
+[![腦血管阻塞快速檢測與定位系統](https://img.youtube.com/vi/DPpDEgunxvo/maxresdefault.jpg)](https://www.youtube.com/watch?v=DPpDEgunxvo)
